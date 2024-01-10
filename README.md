@@ -1,2 +1,2 @@
-# WordPad-Clone
-A WordPad application
+# Text-Editor
+A Text Editor application
