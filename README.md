@@ -1,2 +1,2 @@
 # WordPad-Clone
-A simple WordPad application
+A WordPad application
