@@ -43,6 +43,7 @@ The test suite is designed to cover various use cases and edge cases to ensure t
 The tests are regularly executed as part of the development process to validate new features, bug fixes, and enhancements. Continuous integration and automated testing pipelines help maintain the quality and reliability of the application over time.
 
 ## Technologies and Design Patterns Used:
+- **Java:** Programming language for developing the application.
 - **Java Swing:** Java's GUI toolkit used for building the application's graphical interface, offering components like JTextArea, JMenuBar, and JButtons for user interaction.
 - **Model-View-Controller (MVC) Architecture:** Adopts the MVC pattern to separate concerns and maintain a clean codebase. The model handles data and logic, the view manages the GUI components, and the controller orchestrates user interactions.
 - **Singleton Pattern:** Utilizes the Singleton pattern for certain components like JColorChooser and JFileChooser to ensure a single instance throughout the application.
