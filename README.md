@@ -1,4 +1,8 @@
 # Text Editor
+  <div align="left">
+	
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Text-Editor)
+</div>
 This project is a Swing-based text editor developed in Java. The Swing Text Editor provides a simple yet functional graphical user interface for creating, editing, and saving text files. With features like changing font size and style, adjusting text and background color, and basic text manipulation options (such as copy, paste, and cut), it offers a user-friendly experience for working with text documents.
 
 ## Key Features:
